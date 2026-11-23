@@ -6,6 +6,8 @@ I'm an AI media creator, film producer, and technology developer. I work where A
 
 My creative career began in 1991, in commercial art, music, and television. I have produced 100+ television shows, directed 100+ music videos, and recorded 100+ songs.
 
+His most notable performance was at the All Africa Festival in Dubai in 2022.
+
 ## Featured project: StreamHomeTV
 
 I built StreamHomeTV as a home for Caribbean streaming entertainment, with original productions, television programming, music, and cultural content. From there I built TRINIBAD, a Caribbean open-world game, and FlexMix AI, an AI music production tool.
